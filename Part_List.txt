@@ -1,0 +1,19 @@
+This is the part list for the Pressure Controlled Power Outlet
+
+digikey:
+    Raspberry Pi Pico https://www.digikey.ca/en/products/detail/raspberry-pi/SC0915/13624793
+    T9VV1K15-12S relay https://www.digikey.ca/en/products/detail/te-connectivity-potter-brumfield-relays/T9VV1K15-12S/7793533
+    GTM410602512FWIM(RE) 12V PSU https://www.digikey.ca/en/products/detail/globtek-inc/GTM410602512FWIM-RE/14318880
+    20SRBS1-W C20 PEM https://www.digikey.ca/en/products/detail/te-connectivity-corcom-filters/20SRBS1-W/5774351
+    DFRobot SEN0257 https://www.digikey.ca/en/products/detail/dfrobot/SEN0257/8341836
+    
+
+
+
+HomeDepot:
+    Leviton 20 Amp Self-Test SmartlockPro Slim Duplex GFCI Outlet https://www.homedepot.ca/product/leviton-20-amp-self-test-smartlockpro-slim-duplex-gfci-outlet-in-black/1001791826
+    
+
+
+
+

@@ -15,6 +15,5 @@ The specs:
     - GFCI protected outlets
     - Useable outdoors
 
-Parts List:
-    TBD
+
 
