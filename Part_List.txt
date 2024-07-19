@@ -23,5 +23,5 @@ Mouser:
     Wurth Elektronik 860010572005 https://www.mouser.ca/ProductDetail/710-860010572005      x1
     Panasonic EEA-FC1V120B https://www.mouser.ca/ProductDetail/667-EEA-FC1V120B             x1
     Io Audio IO-C20SP-63 https://www.mouser.ca/ProductDetail/670-IO-C20SP-63                x1
-    Seeed Studio 114991178 https://www.mouser.ca/ProductDetail/713-114991178                x1
+    DFRobot SEN0257 https://www.mouser.ca/ProductDetail/DFRobot/SEN0257                     x1
     TE Connectivity T9GS1L24-24 https://www.mouser.ca/ProductDetail/655-T9GS1L24-24         x2
