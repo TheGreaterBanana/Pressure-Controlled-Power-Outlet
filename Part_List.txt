@@ -1,19 +1,27 @@
 This is the part list for the Pressure Controlled Power Outlet
 
 digikey:
-    Raspberry Pi Pico https://www.digikey.ca/en/products/detail/raspberry-pi/SC0915/13624793
-    T9VV1K15-12S relay https://www.digikey.ca/en/products/detail/te-connectivity-potter-brumfield-relays/T9VV1K15-12S/7793533
-    GTM410602512FWIM(RE) 12V PSU https://www.digikey.ca/en/products/detail/globtek-inc/GTM410602512FWIM-RE/14318880
-    20SRBS1-W C20 PEM https://www.digikey.ca/en/products/detail/te-connectivity-corcom-filters/20SRBS1-W/5774351
-    DFRobot SEN0257 https://www.digikey.ca/en/products/detail/dfrobot/SEN0257/8341836
-    
-
-
+    Note: This is overkill but it was a 24V internal PSU that I had on hand
+	Mornsun America LM100-23B24R2-C https://www.digikey.ca/en/products/detail/mornsun-america-llc/LM100-23B24R2-C/18108181 x1
 
 HomeDepot:
-    Leviton 20 Amp Self-Test SmartlockPro Slim Duplex GFCI Outlet https://www.homedepot.ca/product/leviton-20-amp-self-test-smartlockpro-slim-duplex-gfci-outlet-in-black/1001791826
+    Leviton 20 Amp Self-Test SmartlockPro Slim Duplex GFCI Outlet https://www.homedepot.ca/product/leviton-20-amp-self-test-smartlockpro-slim-duplex-gfci-outlet-in-black/1001791826    x1
     
 
-
-
-
+Mouser:
+    Phoenix Contact 1017514 https://www.mouser.ca/ProductDetail/651-1017514                 x1
+    KEMET A750EK227M1CAAE016 https://www.mouser.ca/ProductDetail/80-A750EK227M1CAAE16       x1
+    STMicroelectronics LF50ABV https://www.mouser.ca/ProductDetail/511-LF50ABV              x1
+    Diotec Semiconductor 1N5401 https://www.mouser.ca/ProductDetail/637-1N5401              x2
+    Diotec Semiconductor 2N3906 https://www.mouser.ca/ProductDetail/637-2N3906              x2
+    Infineon IRF540NPBF https://www.mouser.ca/ProductDetail/942-IRF540NPBF                  x2
+    KOA Speer MF1/4LCT52R561G https://www.mouser.ca/ProductDetail/660-MF1-4LCT52R561G       x4
+    YAGEO MFR-12FTF52-17K https://www.mouser.ca/ProductDetail/603-MFR-12FTF52-17K           x1
+    Vishay MBB02070C3302FCT00 https://www.mouser.ca/ProductDetail/594-MBB02070C3302FCT      x1
+    Texas Instruments LM324AN/NOPB https://www.mouser.ca/ProductDetail/926-LM324AN-NOPB     x1
+    Raspberry Pi Pico (SC0915) https://www.mouser.ca/ProductDetail/358-SC0915               x1
+    Wurth Elektronik 860010572005 https://www.mouser.ca/ProductDetail/710-860010572005      x1
+    Panasonic EEA-FC1V120B https://www.mouser.ca/ProductDetail/667-EEA-FC1V120B             x1
+    Io Audio IO-C20SP-63 https://www.mouser.ca/ProductDetail/670-IO-C20SP-63                x1
+    Seeed Studio 114991178 https://www.mouser.ca/ProductDetail/713-114991178                x1
+    TE Connectivity T9GS1L24-24 https://www.mouser.ca/ProductDetail/655-T9GS1L24-24         x2
