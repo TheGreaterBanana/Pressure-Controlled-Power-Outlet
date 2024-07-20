@@ -5,17 +5,17 @@
       "Application": "Pcbnew",
       "Version": "7.0.10"
     },
-    "CreationDate": "2024-07-19T13:24:47-06:00"
+    "CreationDate": "2024-07-20T16:55:23-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "Pressure-Controlled-Power-Outlet-control-PCB",
       "GUID": "50726573-7375-4726-952d-436f6e74726f",
-      "Revision": "V1.1.1"
+      "Revision": "V1.2.3"
     },
     "Size": {
       "X": 100.43,
-      "Y": 86.46
+      "Y": 100.43
     },
     "LayerNumber": 4,
     "BoardThickness": 1.6,
@@ -34,7 +34,7 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.5,
+      "MinLineWidth": 0.25,
       "TrackToRegion": 0.5,
       "RegionToRegion": 0.5
     }

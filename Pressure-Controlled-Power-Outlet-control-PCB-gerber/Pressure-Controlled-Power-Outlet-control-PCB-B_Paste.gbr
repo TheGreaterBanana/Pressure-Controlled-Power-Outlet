@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
-%TF.CreationDate,2024-07-19T13:24:47-06:00*%
-%TF.ProjectId,Pressure-Controlled-Power-Outlet-control-PCB,50726573-7375-4726-952d-436f6e74726f,V1.1.1*%
+%TF.CreationDate,2024-07-20T16:55:23-06:00*%
+%TF.ProjectId,Pressure-Controlled-Power-Outlet-control-PCB,50726573-7375-4726-952d-436f6e74726f,V1.2.3*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.10) date 2024-07-19 13:24:47*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-07-20 16:55:23*
 %MOMM*%
 %LPD*%
 G01*
