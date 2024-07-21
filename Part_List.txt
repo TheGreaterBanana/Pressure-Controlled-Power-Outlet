@@ -9,19 +9,23 @@ HomeDepot:
     
 
 Mouser:
-    Phoenix Contact 1017514 https://www.mouser.ca/ProductDetail/651-1017514                 x1
-    KEMET A750EK227M1CAAE016 https://www.mouser.ca/ProductDetail/80-A750EK227M1CAAE16       x1
-    STMicroelectronics LF50ABV https://www.mouser.ca/ProductDetail/511-LF50ABV              x1
-    Diotec Semiconductor 1N5401 https://www.mouser.ca/ProductDetail/637-1N5401              x2
-    Diotec Semiconductor 2N3906 https://www.mouser.ca/ProductDetail/637-2N3906              x2
-    Infineon IRF540NPBF https://www.mouser.ca/ProductDetail/942-IRF540NPBF                  x2
-    KOA Speer MF1/4LCT52R561G https://www.mouser.ca/ProductDetail/660-MF1-4LCT52R561G       x4
-    YAGEO MFR-12FTF52-17K https://www.mouser.ca/ProductDetail/603-MFR-12FTF52-17K           x1
-    Vishay MBB02070C3302FCT00 https://www.mouser.ca/ProductDetail/594-MBB02070C3302FCT      x1
-    Texas Instruments LM324AN/NOPB https://www.mouser.ca/ProductDetail/926-LM324AN-NOPB     x1
-    Raspberry Pi Pico (SC0915) https://www.mouser.ca/ProductDetail/358-SC0915               x1
-    Wurth Elektronik 860010572005 https://www.mouser.ca/ProductDetail/710-860010572005      x1
-    Panasonic EEA-FC1V120B https://www.mouser.ca/ProductDetail/667-EEA-FC1V120B             x1
-    Io Audio IO-C20SP-63 https://www.mouser.ca/ProductDetail/670-IO-C20SP-63                x1
-    DFRobot SEN0257 https://www.mouser.ca/ProductDetail/DFRobot/SEN0257                     x1
-    TE Connectivity T9GS1L24-24 https://www.mouser.ca/ProductDetail/655-T9GS1L24-24         x2
+    Nichicon UCY2G120MPD 12µF Cap https://www.mouser.ca/ProductDetail/647-UCY2G120MPD                       x1
+    STMicroelectronics LD1085V50 5V 3A LDO https://www.mouser.ca/ProductDetail/511-LD1085V50                x1
+    TE Connectivity T9GS1L24-24 Relay https://www.mouser.ca/ProductDetail/655-T9GS1L24-24                   x1
+    DFRobot SEN0257 Analog Water Pressure Sensor https://www.mouser.ca/ProductDetail/426-SEN0257            x2
+    Io Audio IO-C20SP-63 C20 PEM https://www.mouser.ca/ProductDetail/670-IO-C20SP-63                        x1
+    Raspberry Pi SC0918 Pico W https://www.mouser.ca/ProductDetail/358-SC0918                               x1
+    Texas Instruments LM324AN/NOPB https://www.mouser.ca/ProductDetail/926-LM324AN-NOPB                     x1
+    Vishay MBB02070C3302FCT00 33k Ohm Resistor https://www.mouser.ca/ProductDetail/594-MBB02070C3302FCT     x1
+    YAGEO MFR-12FTF52-17K 17K Ohm Resistor https://www.mouser.ca/ProductDetail/603-MFR-12FTF52-17K          x1
+    KOA Speer MF1/4LCT52R561G 560 Ohm Resistor https://www.mouser.ca/ProductDetail/660-MF1-4LCT52R561G      x4
+    Infineon IRF540NPBF MOSFET https://www.mouser.ca/ProductDetail/942-IRF540NPBF                           x2
+    Diotec Semiconductor 2N3906 Transistor https://www.mouser.ca/ProductDetail/637-2N3906                   x2
+    Vishay 1N5405-E3/54 Diode https://www.mouser.ca/ProductDetail/625-1N5405-E3                             x2
+    Phoenix Contact 1017514 PCB PWR Connector https://www.mouser.ca/ProductDetail/651-1017514               x1
+    Diotec Semiconductor 2N3904 Transistor https://www.mouser.ca/ProductDetail/637-2N3904                   x4
+    YAGEO MFR1WSFTE52-10K 10K Ohm Resistor https://www.mouser.ca/ProductDetail/603-MFR1WSFTE52-10K          x10
+    Molex 47053-3000 4-Pin PWM Connector https://www.mouser.ca/ProductDetail/538-47053-3000                 x2
+    Rubycon 80ZLH220MEFC10X23 220µF Cap https://www.mouser.ca/ProductDetail/232-80ZLH220MEFC10X2            x1
+    KEMET ESL476M100AH9AA 47µF Cap https://www.mouser.ca/ProductDetail/80-ESL476M100AH9AA                   x1
+    Harwin M7581-46 Jumper https://www.mouser.ca/ProductDetail/855-M7581-46                                 x2
