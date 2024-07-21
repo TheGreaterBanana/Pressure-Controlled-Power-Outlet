@@ -4694,7 +4694,7 @@
     (property "Value" "220µF" (at 52.07 39.751 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm" (at 49.2252 43.18 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" (at 49.2252 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 48.26 39.37 0)
